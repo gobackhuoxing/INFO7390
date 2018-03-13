@@ -8,3 +8,5 @@ Clustering and Linear&Logistic Modeling
 2.liner and muti-liner model  
 3.logistic model  
 4.Cross-validate all of the models  
+## Final Project
+to be continue...
