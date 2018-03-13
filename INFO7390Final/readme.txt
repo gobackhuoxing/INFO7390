@@ -1,3 +1,6 @@
+How to use:
+
 1.download google SDK.
-2.install: pip install --upgrade google-cloud-vision
+2.install: 
+pip install --upgrade google-cloud-vision
 python -m pip install --upgrade google-cloud-vision
