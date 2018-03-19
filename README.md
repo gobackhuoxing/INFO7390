@@ -10,9 +10,9 @@ Clustering and Linear&Logistic Modeling
 4.Cross-validate all of the models  
 ## Assignment3:
 Apache Spark
-1.Set up Apache Spark
-2.Structured Streaming
-3.MLlib and Machine Learning
-4.GraphX and GraphFrames
+1.Set up Apache Spark  
+2.Structured Streaming  
+3.MLlib and Machine Learning  
+4.GraphX and GraphFrames  
 ## Final Project
 to be continue...
