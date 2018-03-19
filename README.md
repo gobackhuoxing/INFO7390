@@ -9,7 +9,7 @@ Clustering and Linear&Logistic Modeling
 3.logistic model  
 4.Cross-validate all of the models  
 ## Assignment3:
-Apache Spark
+Apache Spark  
 1.Set up Apache Spark  
 2.Structured Streaming  
 3.MLlib and Machine Learning  
