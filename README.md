@@ -19,4 +19,4 @@ CNN model on Facebook data
 1.change config of cnn then test accuracy  
 2.CNN model form http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/  
 ## Final Project
-to be continue...
+https://github.com/gobackhuoxing/INFO7390FINAL
